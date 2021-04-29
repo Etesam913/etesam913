@@ -1,4 +1,4 @@
-### Hi! I am a frontend developer who primarily uses React :hammer:
+### Hi! I am a frontend developer who primarily uses JavaScript and React :hammer:
 
 I am majoring in Computer Science at the Columbia School of Engineering and Applied Sciences.
 
