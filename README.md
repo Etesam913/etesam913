@@ -3,13 +3,13 @@
 
 <h3> I am a senior at Columbia University majoring in Computer Science.</h3>
 
-<h3> Want to Learn More About my Experience?</h3>
+<h3> Want to learn more about my experience?</h3>
 
 * [🌐 Personal Website](https://www.etesam.dev/#/experience)
 * [📄 My Resume](https://etesam.nyc3.digitaloceanspaces.com/Personal-Website/Etesam_Ansari_Resume.pdf)
 
 
-<h3> Want to See Some of my Personal Projects </h3>
+<h3> Want to see some of my personal projects? </h3>
 
 * [🔧 General Overview](https://www.etesam.dev/#/)
 * [💾 XP Newtab](https://github.com/Etesam913/xp-newtab)
@@ -25,7 +25,7 @@
 * CSS
 * HTML
 
-<h3>What am I Working on Currently?</h3>
+<h3>What am I currently working on?</h3>
 
 <p>I am working on <a href="https://github.com/Etesam913/Custoplayer">Custoplayer</a>, a React.js npm package that allows developers to quickly create and customize video players. </p>
 
