@@ -37,7 +37,7 @@
 * [LinkedIn](https://www.linkedin.com/in/etesam-ansari/)
 * [YouTube](https://www.youtube.com/@etesamansari)
 
-<h3>My GitHub in a Glance 🔎</h3>
+<h3>My GitHub at a Glance 🔎</h3>
 
 ![Etesam's GitHub stats](https://github-readme-stats.vercel.app/api?username=etesam913&count_private=true&theme=tokyonight)
 
