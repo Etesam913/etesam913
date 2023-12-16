@@ -18,7 +18,7 @@
 * [🦊 Slick-Fox](https://github.com/Etesam913/slick-fox)
 
 
-<h3> Some of the languages/technologies that I am most familiar with are: </h3>
+<h3> Some of the languages/technologies that I am use frequently are: </h3>
 
 * JavaScript (ReactJS)
 * Python
