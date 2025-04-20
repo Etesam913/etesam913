@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋 ! I'm Etesam</h2>
 
-<h3> I am a Software Engineer working at Balyasny Asset Management</h3>
+<h3> I am a Software Engineer working at Google</h3>
 
 <h3> Want to learn more about my experience?</h3>
 
